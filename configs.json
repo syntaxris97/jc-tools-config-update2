@@ -1,19 +1,61 @@
 [
   {
     "id": "antilag",
-    "title": "Busaw Anti Lag",
+    "title": "Benz View x1 Sang-aw",
     "description": "Reduce lag and stabilize gameplay",
     "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch.zip"
   },
   {
     "id": "spawnfix",
-    "title": "qweqwe2",
+    "title": "Benz View x2 Sang-aw",
+    "description": "updated 12-27-25",
+    "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patchx5.zip"
+  },
+    {
+    "id": "spawnfix",
+    "title": "Benz View x3 Sang-aw",
+    "description": "updated 12-27-25",
+    "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patchx5.zip"
+  },
+    {
+    "id": "spawnfix",
+    "title": "Benz View x4 Sang-aw",
+    "description": "updated 12-27-25",
+    "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patchx5.zip"
+  },
+    {
+    "id": "spawnfix",
+    "title": "Benz View x5 Sang-aw",
+    "description": "updated 12-27-25",
+    "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patchx5.zip"
+  },
+      {
+    "id": "spawnfix",
+    "title": "Benz View x6 Sang-aw",
+    "description": "updated 12-27-25",
+    "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patchx5.zip"
+  },
+      {
+    "id": "spawnfix",
+    "title": "Benz View x7 Sang-aw",
+    "description": "updated 12-27-25",
+    "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patchx5.zip"
+  },
+      {
+    "id": "spawnfix",
+    "title": "Benz View x8 Sang-aw",
+    "description": "updated 12-27-25",
+    "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patchx5.zip"
+  },
+      {
+    "id": "spawnfix",
+    "title": "Benz View x9 Sang-aw",
     "description": "updated 12-27-25",
     "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patchx5.zip"
   },
   {
     "id": "fps120",
-    "title": "Benz 120 FPS",
+    "title": "Benz View x10 Sang-aw",
     "description": "Unlock 120 FPS gameplay",
     "url": "https://example.com/120fps.zip"
   }
