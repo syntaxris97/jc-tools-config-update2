@@ -1,7 +1,7 @@
 [
   {
     "id": "antilag",
-    "title": "Config Anti Lag",
+    "title": "Busaw Anti Lag",
     "description": "Reduce lag and stabilize gameplay",
     "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mini_patch.zip"
   },
@@ -13,7 +13,7 @@
   },
   {
     "id": "fps120",
-    "title": "Config 120 FPS",
+    "title": "Benz 120 FPS",
     "description": "Unlock 120 FPS gameplay",
     "url": "https://example.com/120fps.zip"
   }
